@@ -1,0 +1,14 @@
+[2021-11-11 21:00:46.893] [exthost] [info] Extension host with pid 8636 started
+[2021-11-11 21:00:46.893] [exthost] [info] Skipping acquiring lock for /home/luca/.config/Code - OSS/User/workspaceStorage/1c4e2ef8ffc8eb3b9eef3cf70a864455.
+[2021-11-11 21:00:47.002] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-11-11 21:00:47.008] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-11-11 21:00:47.068] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2021-11-11 21:00:47.148] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-11-11 21:00:47.207] [exthost] [info] Eager extensions activated
+[2021-11-11 21:00:47.216] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-11 21:01:01.868] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage:html'
+[2021-11-11 21:01:01.904] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
+[2021-11-11 21:01:05.101] [exthost] [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+[2021-11-11 21:01:05.836] [exthost] [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+[2021-11-11 21:30:35.661] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-11-11 21:30:36.680] [exthost] [info] Extension host with pid 8636 exiting with code 0

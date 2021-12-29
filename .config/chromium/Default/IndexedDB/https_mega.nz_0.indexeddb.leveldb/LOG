@@ -1,0 +1,10 @@
+2021/12/29-20:08:11.537 112e Reusing MANIFEST /home/luca/.config/chromium/Default/IndexedDB/https_mega.nz_0.indexeddb.leveldb/MANIFEST-000001
+2021/12/29-20:08:11.537 112e Recovering log #3
+2021/12/29-20:08:11.537 112e Reusing old log /home/luca/.config/chromium/Default/IndexedDB/https_mega.nz_0.indexeddb.leveldb/000003.log 
+2021/12/29-20:08:11.727 10b4 Level-0 table #5: started
+2021/12/29-20:08:11.728 10b4 Level-0 table #5: 7861 bytes OK
+2021/12/29-20:08:11.729 10b4 Delete type=0 #3
+2021/12/29-20:08:11.729 10d6 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2021/12/29-20:08:13.501 10b4 Level-0 table #7: started
+2021/12/29-20:08:13.531 10b4 Level-0 table #7: 1524036 bytes OK
+2021/12/29-20:08:13.533 10b4 Delete type=0 #4

@@ -1,0 +1,4 @@
+res://Scenes/Spatial.tscn
+res://Scripts/PMovement.gd
+res://assets/Player.tscn
+res://default_env.tres

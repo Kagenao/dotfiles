@@ -1,0 +1,16 @@
+[KEYS]
+A=32
+B=65505
+Select=65288
+Start=65293
+Right=100
+Left=97
+Up=119
+Down=115
+R=101
+L=113
+X=120
+Y=121
+Debug=112
+Boost=99
+Lid=252

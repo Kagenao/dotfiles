@@ -1,0 +1,1876 @@
+Desktop is 1920 x 1080 @ 60 Hz
+Initialize engine version: 2018.3.9f1 (947e1ea5aa8d)
+GfxDevice: creating device client; threaded=1
+Renderer: AMD RENOIR (DRM 3.42.0, 5.15.2-arch1-1, LLVM 13.0.0)
+Vendor:   AMD
+Version:  4.6 (Core Profile) Mesa 21.2.5
+GLES:     0
+ GL_AMD_conservative_depth GL_AMD_depth_clamp_separate GL_AMD_draw_buffers_blend GL_AMD_framebuffer_multisample_advanced GL_AMD_gpu_shader_int64 GL_AMD_multi_draw_indirect GL_AMD_performance_monitor GL_AMD_pinned_memory GL_AMD_query_buffer_object GL_AMD_seamless_cubemap_per_texture GL_AMD_shader_stencil_export GL_AMD_shader_trinary_minmax GL_AMD_texture_texture4 GL_AMD_vertex_shader_layer GL_AMD_vertex_shader_viewport_index GL_ANGLE_texture_compression_dxt3 GL_ANGLE_texture_compression_dxt5 GL_ARB_ES2_compatibility GL_ARB_ES3_1_compatibility GL_ARB_ES3_2_compatibility GL_ARB_ES3_compatibility GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_bindless_texture GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_color_buffer_float GL_ARB_compressed_texture_pixel_storage GL_ARB_compute_shader GL_ARB_compute_variable_group_size GL_ARB_conditional_render_inverted GL_ARB_conservative_depth GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_dist
+ance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB_depth_clamp GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_elements_base_vertex GL_ARB_draw_indirect GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_shader GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gl_spirv GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_gpu_shader_int64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query GL_ARB_pixel
+_buffer_object GL_ARB_point_sprite GL_ARB_polygon_offset_clamp GL_ARB_program_interface_query GL_ARB_provoking_vertex GL_ARB_query_buffer_object GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters GL_ARB_shader_ballot GL_ARB_shader_bit_encoding GL_ARB_shader_clock GL_ARB_shader_draw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_stencil_export GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shader_texture_lod GL_ARB_shader_viewport_layer_array GL_ARB_shading_language_420pack GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_sparse_buffer GL_ARB_spirv_extensions GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessellation_shader GL_ARB
+_texture_barrier GL_ARB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map_array GL_ARB_texture_filter_anisotropic GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_
+rev GL_ARB_viewport_array GL_ATI_blend_equation_separate GL_ATI_meminfo GL_ATI_texture_float GL_ATI_texture_mirror_once GL_EXT_EGL_image_storage GL_EXT_EGL_sync GL_EXT_abgr GL_EXT_blend_equation_separate GL_EXT_demote_to_helper_invocation GL_EXT_depth_bounds_test GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_memory_object GL_EXT_memory_object_fd GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_semaphore GL_EXT_semaphore_fd GL_EXT_shader_image_load_formatted GL_EXT_shader_image_load_store GL_EXT_shader_integer_mix GL_EXT_shader_samples_identical GL_EXT_texture_array GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_mirror_clamp GL_EXT_texture_sRGB GL_EXT_textur
+e_sRGB_R8 GL_EXT_texture_sRGB_decode GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_snorm GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_EXT_window_rectangles GL_IBM_multimode_draw_arrays GL_INTEL_blackhole_render GL_KHR_blend_equation_advanced GL_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_parallel_shader_compile GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_KHR_texture_compression_astc_ldr GL_KHR_texture_compression_astc_sliced_3d GL_MESA_framebuffer_flip_y GL_MESA_pack_invert GL_MESA_shader_integer_functions GL_MESA_texture_signed_rgba GL_NVX_gpu_memory_info GL_NV_alpha_to_coverage_dither_control GL_NV_compute_shader_derivatives GL_NV_conditional_render GL_NV_copy_image GL_NV_depth_clamp GL_NV_packed_depth_stencil GL_NV_shader_atomic_int64 GL_NV_texture_barrier GL_NV_vdpau_interop GL_OES_EGL_image GL_S3_s3tc
+OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle 172323824
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.107 seconds
+Default vsync count 0
+requesting resize 1920 x 1080
+Using native desktop resolution 1920 x 1080
+requesting fullscreen 1920 x 1080 at 0 Hz
+Desktop is 1920 x 1080 @ 60 Hz
+UnloadTime: 1.042000 ms
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 540)
+
+[Platforms.PlatformAccount]: Initializing [PlatformAccount]
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+[Platforms.PlayFabWrapper]: PlayFab titleId set to [CA87]
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+[Platforms.Helper]: [Platforms.IPlatformAccountExtension] platforms available for type [Steam]:
+	Platforms.SteamPlatformAccount [10]
+
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+[Platforms.PlatformAccount]: Active extension changed to [Platforms.SteamPlatformAccount]
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+[Platforms.PlatformAccount]: Initialized
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+[Platforms.PlatformStore]: Initializing [PlatformStore]
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+[Platforms.Helper]: [Platforms.IPlatformStoreExtension] platforms available for type [Steam]:
+	Platforms.Store.SteamStore [10]
+	Platforms.Store.PlayFabVirtualCurrency [0]
+
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+[Platforms.PlatformStore]: Initialized
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 540)
+
+KongUnityLog: [KONG]KongregateGameObject Enabled!
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+KongregateAPI: DEBUG: Initializating v3.1.1 from Unity
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Detecting Kongregate Platform...
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Kongregate target platform is standalone
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Kongregate: Enabled=True, WebEnabled=True, StandaloneEnabled=False
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Kongregate: unsupported runtime/target combination, API will not function
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+KongregateAPI: DEBUG: initialization from Unity complete
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Attaching event handlers to gameObject: Kongregate(Clone)
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+KongregateGameObject IsReady
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+KongUnityLog: Setting up Kongregate Analytic Common Properties
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+KongUnityLog: [KONG]Install Referrer is: 
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+(OnOrientationChanged) width=1920, height=1080
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+(OnOrientationChanged) safe.x=0, safe.y=0, safe.width=1920, safe.height=1080
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+[Platforms.SteamworksWrapper]: Successfully validated session auth ticket.
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+[Platforms.PlatformAccount]: Successfully authenticated with PlayFab.
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+BEGIN Steam save import
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [gamestate.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [earth-gamestate.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [moon-gamestate.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [mars-gamestate.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Importing [global-playerdata.sav]
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [earth-playerdata.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [moon-playerdata.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [mars-playerdata.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [planetpanel.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [earth-planetpanel.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Importing [moon-planetpanel.sav]
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Importing [mars-planetpanel.sav]
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Importing [earth-gamestate-3.sav]
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [moon-gamestate-3.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [mars-gamestate-3.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1512_holiday_728037-gamestate-3.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1512_holiday_728037-playerdata.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1512_holiday_728037-planetpanel.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1601_newyears_456263-gamestate-3.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1601_newyears_456263-playerdata.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1601_newyears_456263-planetpanel.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1602_valentines_434575-gamestate-3.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1602_valentines_434575-playerdata-3.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1602_valentines_434575-planetpanel-3.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1603_easter_290507-gamestate-3.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1603_easter_290507-playerdata-3.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1603_easter_290507-planetpanel-3.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1604_hero_124816-gamestate-3.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1604_hero_124816-playerdata-3.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1604_hero_124816-planetpanel-3.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1605_space_789456-gamestate-3.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1605_space_789456-playerdata-3.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1605_space_789456-planetpanel-3.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1606_arcade_451278-gamestate-3.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1606_arcade_451278-playerdata-3.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1606_arcade_451278-planetpanel-3.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1607_music_182937-gamestate-3.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1607_music_182937-playerdata.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1607_music_182937-planetpanel.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1608_sports_867530-gamestate-3.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1608_sports_867530-playerdata.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1608_sports_867530-planetpanel.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1609_time_164973-gamestate-3.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1609_time_164973-playerdata.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1609_time_164973-planetpanel.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1609_valentines_replay-gamestate-3.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1609_valentines_replay-playerdata.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1609_valentines_replay-planetpanel.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1610_halloween_yeartwo-gamestate-3.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1610_halloween_yeartwo-playerdata.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1610_halloween_yeartwo-planetpanel.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1610_hero_replaysurprise-gamestate-3.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1610_hero_replaysurprise-playerdata.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1610_hero_replaysurprise-planetpanel.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1611_easter_replay-gamestate-3.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1611_easter_replay-playerdata.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1611_easter_replay-planetpanel.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1611_blackfriday_yeartwo-gamestate-3.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1611_blackfriday_yeartwo-playerdata.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1611_blackfriday_yeartwo-planetpanel.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1612_arcade_replay-gamestate-3.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1612_arcade_replay-playerdata.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1612_arcade_replay-planetpanel.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1612_holiday_yeartwo-gamestate-3.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1612_holiday_yeartwo-playerdata.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1612_holiday_yeartwo-planetpanel.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1701_newyears_yeartwo-gamestate-3.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1701_newyears_yeartwo-playerdata.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1701_newyears_yeartwo-planetpanel.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1702_valentines_yeartwo-gamestate-3.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1702_valentines_yeartwo-playerdata.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1702_valentines_yeartwo-planetpanel.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1703_easter_yeartwo-gamestate-3.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1703_easter_yeartwo-playerdata.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1703_easter_yeartwo-planetpanel.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1704_hero_yeartwo-gamestate-3.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1704_hero_yeartwo-playerdata.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1704_hero_yeartwo-planetpanel.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1705_space_yeartwo-gamestate-3.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1705_space_yeartwo-playerdata.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1705_space_yeartwo-planetpanel.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1706_arcade_yeartwo-gamestate-3.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1706_arcade_yeartwo-playerdata.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1706_arcade_yeartwo-planetpanel.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1707_music_yeartwo-gamestate-3.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1707_music_yeartwo-playerdata.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1707_music_yeartwo-planetpanel.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1708_sports_yeartwo-gamestate-3.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1708_sports_yeartwo-playerdata.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1708_sports_yeartwo-planetpanel.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1708_cartoon-gamestate-3.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1708_cartoon-playerdata.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1708_cartoon-planetpanel.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1710_themepark-gamestate-3.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1710_themepark-playerdata.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1710_themepark-planetpanel.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1710_halloweenblockparty-gamestate-3.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1710_halloweenblockparty-playerdata.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1710_halloweenblockparty-planetpanel.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1711_thanksgiving-gamestate-3.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1711_thanksgiving-playerdata.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1711_thanksgiving-planetpanel.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1709_time_yeartwo-gamestate-3.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1709_time_yeartwo-playerdata.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1709_time_yeartwo-planetpanel.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1710_halloween_yeartwo-gamestate-3.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1710_halloween_yeartwo-playerdata.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1710_halloween_yeartwo-planetpanel.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1701_sports_replay-gamestate-3.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1701_sports_replay-playerdata.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1701_sports_replay-planetpanel.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1703_space_replay-gamestate-3.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1703_space_replay-playerdata.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1703_space_replay-planetpanel.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1703_music_replay-gamestate-3.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1703_music_replay-playerdata.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1703_music_replay-planetpanel.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1704_time_replay-gamestate-3.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1704_time_replay-playerdata.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1704_time_replay-planetpanel.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1706_halloween_replay-gamestate-3.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1706_halloween_replay-playerdata.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1706_halloween_replay-planetpanel.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1707_blackfriday_replay-gamestate-3.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1707_blackfriday_replay-playerdata.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1707_blackfriday_replay-planetpanel.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1708_hero_replay-gamestate-3.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1708_hero_replay-playerdata.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1708_hero_replay-planetpanel.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1709_valentines_replay-gamestate-3.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1709_valentines_replay-playerdata.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1709_valentines_replay-planetpanel.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1711_thanksgiving_replay-gamestate-3.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1711_thanksgiving_replay-playerdata.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1711_thanksgiving_replay-planetpanel.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1712_xmas-gamestate-3.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1712_xmas-playerdata.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1712_xmas-planetpanel.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1801_sports-gamestate-3.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1801_sports-playerdata.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [1801_sports-planetpanel.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [manager_mania_i-gamestate-3.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [manager_mania_i-playerdata.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+  Skipping [manager_mania_i-planetpanel.sav], appears to be missing or empty
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+END Steam save import
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+[Platforms.PlatformAccount]: Successfully logged in, PlayFab Id: [C7473696E9351159]
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+[Platforms.PlatformStore]: Getting store [Steam-0.0.1] for catalog [7.3-catalog]...
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Setting base uri to [https://hyperhippo.ssl.hwcdn.net/adventure-capitalist/SteamEvents/2021_Events_April/].
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Unable to open archive file: /home/luca/.local/share/Steam/steamapps/common/AdVenture Capitalist/adventure-capitalist_Data/StreamingAssets/standalone/standalone
+ 
+(Filename:  Line: 587)
+
+Unable to retrieve manifest file from StreamingAssets, disabling StreamingAssetsBundleDownloadDecorator.
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+GetAssetBundle [uncached] v[1] [https://hyperhippo.ssl.hwcdn.net/adventure-capitalist/SteamEvents/2021_Events_April/standalone/standalone_2021_04_19_08_38_33].
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+statvfs failed with errno=2; path was /tmp/Hyper Hippo Productions Ltd__AdCap!
+[UserDataService]: TestGroups=
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+GetAssetBundle [uncached] [https://hyperhippo.ssl.hwcdn.net/adventure-capitalist/SteamEvents/2021_Events_April/standalone/bundled_badges_55e2f622b2ad0b3cc2019f3fcf0380a9] [55e2f622b2ad0b3cc2019f3fcf0380a9].
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+No save for [GameStateData_Moon] so returning null
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+No save for [GameStateData_Moon] so returning null
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+No save for [GameStateData_Moon] so returning null
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+No save for [GameStateData_Mars] so returning null
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+No save for [GameStateData_Mars] so returning null
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+No save for [GameStateData_Mars] so returning null
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+No save for [GameStateData_ThanksGiving] so returning null
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+No save for [GameStateData_ThanksGiving] so returning null
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+No save for [GameStateData_BlackFriday] so returning null
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+No save for [GameStateData_BlackFriday] so returning null
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+No save for [GameStateData_Holiday] so returning null
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+No save for [GameStateData_Holiday] so returning null
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+No save for [GameStateData_NewYears] so returning null
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+No save for [GameStateData_NewYears] so returning null
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+[Kong][AngelInvestorService] HandleKongLoginStatus=False
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+[Platforms.PlatformAd]: Initilizing
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+[Platforms.Helper]: [Platforms.IPlatformAdExtension] platforms available for type [Steam]:
+
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+[Platforms.PlatformAd]: Initilized
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+[AdCap.Redemption.RedemptionService]: Initializing....
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+[AdCap.Redemption.RedemptionService]: Initialized
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+[GiftService]: Initializing....
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+[GiftService]: Initialized
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+GetAssetBundle [uncached] [https://hyperhippo.ssl.hwcdn.net/adventure-capitalist/SteamEvents/2021_Events_April/standalone/planetdata-earth_90135d1149067a7c3d55c2a79f05e365] [90135d1149067a7c3d55c2a79f05e365].
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+GetAssetBundle [uncached] [https://hyperhippo.ssl.hwcdn.net/adventure-capitalist/SteamEvents/2021_Events_April/standalone/planetdata-moon_3b023bf089dc4016bcaa1f2dbd72b003] [3b023bf089dc4016bcaa1f2dbd72b003].
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+GetAssetBundle [uncached] [https://hyperhippo.ssl.hwcdn.net/adventure-capitalist/SteamEvents/2021_Events_April/standalone/planetdata-mars_4baa8b4f128e07a155279da7fd72a70e] [4baa8b4f128e07a155279da7fd72a70e].
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+(OnOrientationChanged) width=1920, height=1080
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+(OnOrientationChanged) safe.x=0, safe.y=0, safe.width=1920, safe.height=1080
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.409000 ms
+KongUnityLog: [Hippo] Playfab event received: 
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+
+Unloading 80 unused Assets to reduce memory usage. Loaded Objects now: 2381.
+Total: 9.380000 ms (FindLiveObjects: 0.568000 ms CreateObjectMapping: 0.064000 ms MarkObjects: 8.662000 ms  DeleteObjects: 0.085000 ms)
+
+GetAssetBundle [uncached] [https://hyperhippo.ssl.hwcdn.net/adventure-capitalist/SteamEvents/2021_Events_April/standalone/gamestate-earth_98b8bdc6321ad7af991acd8c5ab3e284] [98b8bdc6321ad7af991acd8c5ab3e284].
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+GetAssetBundle [uncached] [https://hyperhippo.ssl.hwcdn.net/adventure-capitalist/SteamEvents/2021_Events_April/standalone/planettheme-earth_2a480b861ca9f85c3654eab83175b586] [2a480b861ca9f85c3654eab83175b586].
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 6)
+UnloadTime: 4.204000 ms
+Finished Loading Data
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+[PlayerData_Earth] not found
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+[ Notifications ] ClearAllNotifications
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 5396.
+Total: 11.578000 ms (FindLiveObjects: 0.908000 ms CreateObjectMapping: 0.552000 ms MarkObjects: 10.025000 ms  DeleteObjects: 0.091000 ms)
+
+BEGIN Steam DLC Check
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Steam DLC [471650] not found.
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+END Steam DLC Check
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+(OnOrientationChanged) width=1920, height=1080
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+(OnOrientationChanged) safe.x=0, safe.y=0, safe.width=1920, safe.height=1080
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+(OnOrientationChanged) width=1920, height=1080
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+(OnOrientationChanged) safe.x=0, safe.y=0, safe.width=1920, safe.height=1080
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+(OnOrientationChanged) width=1920, height=1080
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+(OnOrientationChanged) safe.x=0, safe.y=0, safe.width=1920, safe.height=1080
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+KongUnityLog: UNLOAD UNUSED ASSETS!!!
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 6)
+
+Unloading 204 unused Assets to reduce memory usage. Loaded Objects now: 9119.
+Total: 18.565000 ms (FindLiveObjects: 0.642000 ms CreateObjectMapping: 0.235000 ms MarkObjects: 17.404000 ms  DeleteObjects: 0.284000 ms)
+
+GetAssetBundle [uncached] [https://hyperhippo.ssl.hwcdn.net/adventure-capitalist/SteamEvents/2021_Events_April/standalone/planetdata-themepark_933537587fb39005d31b5b8a9f80e684] [933537587fb39005d31b5b8a9f80e684].
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+[FtueManager] Showing Ftue TimewarpExpress
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+GetAssetBundle [uncached] [https://hyperhippo.ssl.hwcdn.net/adventure-capitalist/SteamEvents/2021_Events_April/standalone/gamestate-2111_themepark_2e179a370d92d16c254a80f7ef2ec53b] [2e179a370d92d16c254a80f7ef2ec53b].
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+GetAssetBundle [uncached] [https://hyperhippo.ssl.hwcdn.net/adventure-capitalist/SteamEvents/2021_Events_April/standalone/planettheme-themepark_e81dce743882923cc4a9389e56579df3] [e81dce743882923cc4a9389e56579df3].
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 9)
+UnloadTime: 14.648000 ms
+Finished Loading Data
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+[PlayerData_2111_themepark] not found
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+No save for [GameStateData_2111_themepark] so returning null
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+[ Notifications ] ClearAllNotifications
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+
+Unloading 747 unused Assets to reduce memory usage. Loaded Objects now: 5390.
+Total: 10.915000 ms (FindLiveObjects: 0.518000 ms CreateObjectMapping: 0.144000 ms MarkObjects: 9.351000 ms  DeleteObjects: 0.901000 ms)
+
+BEGIN Steam DLC Check
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Steam DLC [471650] not found.
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+END Steam DLC Check
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+(OnOrientationChanged) width=1920, height=1080
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+(OnOrientationChanged) safe.x=0, safe.y=0, safe.width=1920, safe.height=1080
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+(OnOrientationChanged) width=1920, height=1080
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+(OnOrientationChanged) safe.x=0, safe.y=0, safe.width=1920, safe.height=1080
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+(OnOrientationChanged) width=1920, height=1080
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+(OnOrientationChanged) safe.x=0, safe.y=0, safe.width=1920, safe.height=1080
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+KongUnityLog: UNLOAD UNUSED ASSETS!!!
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 9)
+
+Unloading 301 unused Assets to reduce memory usage. Loaded Objects now: 9629.
+Total: 16.530000 ms (FindLiveObjects: 0.721000 ms CreateObjectMapping: 0.110000 ms MarkObjects: 15.380000 ms  DeleteObjects: 0.318000 ms)
+
+[FtueManager] Showing Ftue EventMission_Intro
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Could not find FTUE element [ProfitMartiansIAP]
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+[FtueManager] Showing Ftue EventMission_Step1
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+[FtueManager] Showing Ftue EventMission_Step2
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Could not find FTUE element [ProfitMartiansIAP]
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+[FtueManager] Showing Ftue EventMission_Step3
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+GetItemById() Key [planet_unlock_moon] not present
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 9)
+UnloadTime: 8.200000 ms
+Finished Loading Data
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+[ Notifications ] ClearAllNotifications
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+
+Unloading 2580 unused Assets to reduce memory usage. Loaded Objects now: 5640.
+Total: 13.809000 ms (FindLiveObjects: 1.035000 ms CreateObjectMapping: 0.238000 ms MarkObjects: 10.714000 ms  DeleteObjects: 1.820000 ms)
+
+BEGIN Steam DLC Check
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Steam DLC [471650] not found.
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+END Steam DLC Check
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+(OnOrientationChanged) width=1920, height=1080
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+(OnOrientationChanged) safe.x=0, safe.y=0, safe.width=1920, safe.height=1080
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+(OnOrientationChanged) width=1920, height=1080
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+(OnOrientationChanged) safe.x=0, safe.y=0, safe.width=1920, safe.height=1080
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+(OnOrientationChanged) width=1920, height=1080
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+(OnOrientationChanged) safe.x=0, safe.y=0, safe.width=1920, safe.height=1080
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+KongUnityLog: UNLOAD UNUSED ASSETS!!!
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 9)
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 9182.
+Total: 18.620000 ms (FindLiveObjects: 1.379000 ms CreateObjectMapping: 0.130000 ms MarkObjects: 17.031000 ms  DeleteObjects: 0.078000 ms)
+
+GetItemById() Key [planet_unlock_moon] not present
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 9)
+UnloadTime: 7.643000 ms
+Finished Loading Data
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+[ Notifications ] ClearAllNotifications
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+
+Unloading 1712 unused Assets to reduce memory usage. Loaded Objects now: 5642.
+Total: 12.189000 ms (FindLiveObjects: 0.953000 ms CreateObjectMapping: 0.181000 ms MarkObjects: 9.284000 ms  DeleteObjects: 1.770000 ms)
+
+BEGIN Steam DLC Check
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Steam DLC [471650] not found.
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+END Steam DLC Check
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+(OnOrientationChanged) width=1920, height=1080
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+(OnOrientationChanged) safe.x=0, safe.y=0, safe.width=1920, safe.height=1080
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+(OnOrientationChanged) width=1920, height=1080
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+(OnOrientationChanged) safe.x=0, safe.y=0, safe.width=1920, safe.height=1080
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+(OnOrientationChanged) width=1920, height=1080
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+(OnOrientationChanged) safe.x=0, safe.y=0, safe.width=1920, safe.height=1080
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+KongUnityLog: UNLOAD UNUSED ASSETS!!!
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 9)
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 9563.
+Total: 19.175000 ms (FindLiveObjects: 0.698000 ms CreateObjectMapping: 0.127000 ms MarkObjects: 18.258000 ms  DeleteObjects: 0.091000 ms)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+KongregateAPI: DEBUG: Analytics add event json=delta.menu.open map=
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+KongregateAPI: DEBUG: common props not set
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Attempting to record delta.menu.open event before starting DeltaDNA.
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+KongregateAPI: DEBUG: Analytics add event json=delta.menu.open map=
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+KongregateAPI: DEBUG: common props not set
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Attempting to record delta.menu.open event before starting DeltaDNA.
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 9)
+UnloadTime: 18.977000 ms
+Finished Loading Data
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+[ Notifications ] ClearAllNotifications
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+
+Unloading 3084 unused Assets to reduce memory usage. Loaded Objects now: 5652.
+Total: 14.114000 ms (FindLiveObjects: 0.599000 ms CreateObjectMapping: 0.111000 ms MarkObjects: 10.903000 ms  DeleteObjects: 2.500000 ms)
+
+BEGIN Steam DLC Check
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Steam DLC [471650] not found.
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+END Steam DLC Check
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+(OnOrientationChanged) width=1920, height=1080
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+(OnOrientationChanged) safe.x=0, safe.y=0, safe.width=1920, safe.height=1080
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+(OnOrientationChanged) width=1920, height=1080
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+(OnOrientationChanged) safe.x=0, safe.y=0, safe.width=1920, safe.height=1080
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+(OnOrientationChanged) width=1920, height=1080
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+(OnOrientationChanged) safe.x=0, safe.y=0, safe.width=1920, safe.height=1080
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+KongUnityLog: UNLOAD UNUSED ASSETS!!!
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 9)
+
+Unloading 83 unused Assets to reduce memory usage. Loaded Objects now: 9262.
+Total: 20.679000 ms (FindLiveObjects: 0.744000 ms CreateObjectMapping: 0.090000 ms MarkObjects: 19.624000 ms  DeleteObjects: 0.220000 ms)
+
+KongregateAPI: DEBUG: Analytics add event json=delta.menu.open map=
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+KongregateAPI: DEBUG: common props not set
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Attempting to record delta.menu.open event before starting DeltaDNA.
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+[ Achievements ] Earned Steam achievement [EVERYTHING_100]
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+[FtueManager] Showing Ftue CurrencyExchange
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+[FtueManager] Showing Ftue MegaBoostsPanel
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+GetAssetBundle [uncached] [https://hyperhippo.ssl.hwcdn.net/adventure-capitalist/SteamEvents/2021_Events_April/standalone/gamestate-moon_a9b0edea54c2bfdeca2813d75ce6f676] [a9b0edea54c2bfdeca2813d75ce6f676].
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+GetAssetBundle [uncached] [https://hyperhippo.ssl.hwcdn.net/adventure-capitalist/SteamEvents/2021_Events_April/standalone/planettheme-moon_33802c01a0a74bb097f7d8f028df5c08] [33802c01a0a74bb097f7d8f028df5c08].
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 11)
+UnloadTime: 18.006000 ms
+Finished Loading Data
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+[PlayerData_Moon] not found
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+No save for [GameStateData_Moon] so returning null
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+[ Notifications ] ClearAllNotifications
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+
+Unloading 1970 unused Assets to reduce memory usage. Loaded Objects now: 5656.
+Total: 14.596000 ms (FindLiveObjects: 1.678000 ms CreateObjectMapping: 0.481000 ms MarkObjects: 10.991000 ms  DeleteObjects: 1.443000 ms)
+
+BEGIN Steam DLC Check
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Steam DLC [471650] not found.
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+END Steam DLC Check
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+(OnOrientationChanged) width=1920, height=1080
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+(OnOrientationChanged) safe.x=0, safe.y=0, safe.width=1920, safe.height=1080
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+(OnOrientationChanged) width=1920, height=1080
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+(OnOrientationChanged) safe.x=0, safe.y=0, safe.width=1920, safe.height=1080
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+(OnOrientationChanged) width=1920, height=1080
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+(OnOrientationChanged) safe.x=0, safe.y=0, safe.width=1920, safe.height=1080
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+KongUnityLog: UNLOAD UNUSED ASSETS!!!
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 11)
+
+Unloading 121 unused Assets to reduce memory usage. Loaded Objects now: 9501.
+Total: 17.491000 ms (FindLiveObjects: 0.767000 ms CreateObjectMapping: 0.512000 ms MarkObjects: 16.069000 ms  DeleteObjects: 0.143000 ms)
+
+[FtueManager] Showing Ftue FirstEarnedSuitPiece
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Swag item [Time Car] could not find unlock []
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+No save for [GameStateData_Mars] so returning null
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+No save for [GameStateData_Event] so returning null
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+[FtueManager] Showing Ftue ChangingRoom
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+[On Click!] OnNext: [()]
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+[On Click!] OnNext: [()]
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+KongregateAPI: DEBUG: Analytics add event json=delta.menu.open map=
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+KongregateAPI: DEBUG: common props not set
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Attempting to record delta.menu.open event before starting DeltaDNA.
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 11)
+UnloadTime: 19.833000 ms
+Finished Loading Data
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+[ Notifications ] ClearAllNotifications
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+
+Unloading 3273 unused Assets to reduce memory usage. Loaded Objects now: 5657.
+Total: 14.956000 ms (FindLiveObjects: 0.954000 ms CreateObjectMapping: 0.438000 ms MarkObjects: 11.023000 ms  DeleteObjects: 2.541000 ms)
+
+BEGIN Steam DLC Check
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Steam DLC [471650] not found.
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+END Steam DLC Check
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+(OnOrientationChanged) width=1920, height=1080
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+(OnOrientationChanged) safe.x=0, safe.y=0, safe.width=1920, safe.height=1080
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+(OnOrientationChanged) width=1920, height=1080
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+(OnOrientationChanged) safe.x=0, safe.y=0, safe.width=1920, safe.height=1080
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+(OnOrientationChanged) width=1920, height=1080
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+(OnOrientationChanged) safe.x=0, safe.y=0, safe.width=1920, safe.height=1080
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+KongUnityLog: UNLOAD UNUSED ASSETS!!!
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 11)
+
+Unloading 83 unused Assets to reduce memory usage. Loaded Objects now: 9269.
+Total: 20.420000 ms (FindLiveObjects: 0.918000 ms CreateObjectMapping: 0.118000 ms MarkObjects: 19.153000 ms  DeleteObjects: 0.231000 ms)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 11)
+UnloadTime: 19.631000 ms
+Finished Loading Data
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+[ Notifications ] ClearAllNotifications
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+
+Unloading 1425 unused Assets to reduce memory usage. Loaded Objects now: 5654.
+Total: 14.507000 ms (FindLiveObjects: 0.942000 ms CreateObjectMapping: 0.234000 ms MarkObjects: 11.517000 ms  DeleteObjects: 1.813000 ms)
+
+BEGIN Steam DLC Check
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Steam DLC [471650] not found.
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+END Steam DLC Check
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+(OnOrientationChanged) width=1920, height=1080
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+(OnOrientationChanged) safe.x=0, safe.y=0, safe.width=1920, safe.height=1080
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+(OnOrientationChanged) width=1920, height=1080
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+(OnOrientationChanged) safe.x=0, safe.y=0, safe.width=1920, safe.height=1080
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+(OnOrientationChanged) width=1920, height=1080
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+(OnOrientationChanged) safe.x=0, safe.y=0, safe.width=1920, safe.height=1080
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+KongUnityLog: UNLOAD UNUSED ASSETS!!!
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 11)
+
+Unloading 83 unused Assets to reduce memory usage. Loaded Objects now: 9459.
+Total: 20.041000 ms (FindLiveObjects: 0.715000 ms CreateObjectMapping: 0.152000 ms MarkObjects: 18.955000 ms  DeleteObjects: 0.218000 ms)
+
+KongregateAPI: DEBUG: Analytics add event json=delta.menu.open map=
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+KongregateAPI: DEBUG: common props not set
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Attempting to record delta.menu.open event before starting DeltaDNA.
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+KongregateAPI: DEBUG: Analytics add event json=delta.menu.open map=
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+KongregateAPI: DEBUG: common props not set
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Attempting to record delta.menu.open event before starting DeltaDNA.
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Rebuild List
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Quitting game
+ 
+(Filename: ./Runtime/Export/Debug.bindings.h Line: 45)
+
+Setting up 8 worker threads for Enlighten.
+  Thread -> id: bb336ac0 -> priority: 1 
+  Thread -> id: bab35ac0 -> priority: 1 
+  Thread -> id: bbb37ac0 -> priority: 1 
+  Thread -> id: b6efcac0 -> priority: 1 
+  Thread -> id: b66fbac0 -> priority: 1 
+  Thread -> id: b5efaac0 -> priority: 1 
+  Thread -> id: b56f9ac0 -> priority: 1 
+  Thread -> id: b4ef8ac0 -> priority: 1 

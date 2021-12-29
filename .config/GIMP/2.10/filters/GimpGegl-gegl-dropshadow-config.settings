@@ -1,0 +1,22 @@
+# settings
+
+(GimpGegl-gegl-dropshadow-config "2021-11-29 00:08:07"
+    (time 1638140887)
+    (x 20)
+    (y 20)
+    (radius 10)
+    (grow-shape circle)
+    (grow-radius 0)
+    (color (color-rgba 0 0 0 1))
+    (opacity 0.5))
+(GimpGegl-gegl-dropshadow-config "2021-11-29 00:07:54"
+    (time 1638140874)
+    (x 8.3119999999999994)
+    (y 8.3119999999999994)
+    (radius 5.5800000000000001)
+    (grow-shape circle)
+    (grow-radius -1)
+    (color (color-rgba 0 0 0 1))
+    (opacity 0.76600000000000001))
+
+# end of settings

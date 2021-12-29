@@ -1,0 +1,6 @@
+RigidBody
+KinematicBody
+MeshInstance
+CollisionShape
+StaticBody
+Camera
